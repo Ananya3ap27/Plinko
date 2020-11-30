@@ -21,7 +21,7 @@ function setup(){
 
    p1=new Particle(100,100);
    p2=new Particle(200,100);
-   p3=new Particle(300,1000);
+   p3=new Particle(300,100);
    p4=new Particle(400,100);
    p5=new Particle(500,100);
    p6=new Particle(50,200);
